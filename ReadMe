@@ -1,0 +1,12 @@
+# This is a vagrant file that provision ubuntu OS as base and install docker
+
+# From this start of this project I INSTALL Vagrant via [terminal cli]
+
+# STEPS:
+        # mkdir vagrant.
+        # cd vagrant.
+        # install Vagrant via terminal.
+        # install virtualbox and its kernels.
+        # setup necessary objects Vagrantfile.
+        # vigrant up to start the provisioning.
+```
